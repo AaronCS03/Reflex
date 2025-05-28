@@ -1,4 +1,4 @@
-📌 ¿Qué es tu proyecto ReVisual?
+# 📌 ¿Qué es tu proyecto ReVisual?
 ReVisual es una página web construida con Reflex (Python web framework) que muestra un sistema de gestión de activos. Incluye secciones como escaneo de QR, rastreo de activos y gestión avanzada de inventario, todo con un diseño moderno y adaptable.
 
 # ReVisual
@@ -43,7 +43,7 @@ cd ruta/del/proyecto
 
 
 3. Clona el repositorio con:  
-git clone 
+git clone https://github.com/AaronCS03/Reflex/tree/master
 
 
 
@@ -54,43 +54,17 @@ git clone
 1. Entra a la carpeta del proyecto:  
 cd ReVisual
 
-markdown
-Copiar
-Editar
+
 2. Ejecuta el proyecto con Reflex:  
 reflex run
 
-markdown
-Copiar
-Editar
+
 3. Abre el navegador en:  
 http://localhost:3000
 
-yaml
-Copiar
-Editar
+
 
 ¡Listo! Ahora podrás ver tu página web en acción.
 
 ---
 
-## 💡 Notas
-
-- Puedes personalizar las secciones del archivo index.py según tus necesidades.  
-- Las imágenes se cargan desde los archivos en la carpeta.  
-
----
-
-## 🤝 Contribuciones
-
-¡Se aceptan mejoras y sugerencias!  
-Si deseas contribuir, abre un *issue* o haz un *pull request*.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).  
-Siéntete libre de usarlo y adaptarlo.
-
----
